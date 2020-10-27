@@ -135,4 +135,4 @@ You only need to put all the content of this new **locations.json** inside of a 
 
 ### *Make a geospatial analysis of the most popular places:*
 
-You can also make a geospatial analysis of the most popular places with the JSON files obtained with the *Instagram_places.py* and applying different clustering techniques.
+You can also make a geospatial analysis of the most popular places with the JSON files obtained with the *Instagram_places.py* like [this analysis of Valdivia](https://github.com/mhuala/Valdivia-geospatial-clusters) or applying different clustering techniques.
