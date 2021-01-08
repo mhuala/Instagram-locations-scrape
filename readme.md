@@ -1,4 +1,4 @@
-# Instagram geo-tagged posts Scraper:
+# Instagram locations info Scraper:
 
 [![Contact](https://img.shields.io/badge/Email-%20Contact-yellow.svg)](mailto:manuelhuala@outlook.com)
 
